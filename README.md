@@ -3,4 +3,4 @@ Developed a Website for a Donatioin for child and Women warefare. Used Razorpay 
 
 # Helping Hands Website
 
-## [Site is Live At](https://nitinhelpinghands.herokuapp.com/) : <br/> https://nitinhelpinghands.herokuapp.com/
+## [Site is Live At](https://nitinhelpinghands.vercel.app/) : <br/> https://nitinhelpinghands.vercel.app/
